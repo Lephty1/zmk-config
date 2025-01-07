@@ -62,7 +62,7 @@
 &kp GRAVE &none    &kp UP    &none      &none    &none                    &none    &kp UNDER   &none    &kp LBKT    &kp RBKT    &kp F12
 &trans    &kp LEFT  &kp DOWN    &kp RIGHT    &none  &none                 &none &none &none &none  &none  &none
 &none    &none &none &none &none  &none   &none &none  &none  &none &none  &none &kp BSLH  &trans
-                    &trans    &trans      &trans    &trans     &trans &trans  &trans    &trans   &trans    &trans
+                    &trans    &trans      &trans    &kp PSCRN     &trans &trans  &trans    &trans   &trans    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
